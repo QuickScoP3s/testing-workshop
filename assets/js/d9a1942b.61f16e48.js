@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktesting_workshop=self.webpackChunktesting_workshop||[]).push([[9282],{9325:t=>{t.exports=JSON.parse('{"title":"Unit testing","slug":"/category/unit-testing","permalink":"/category/unit-testing","navigation":{"previous":{"title":"Workshop summary","permalink":"/"},"next":{"title":"Getting started","permalink":"/category/getting-started"}}}')}}]);
